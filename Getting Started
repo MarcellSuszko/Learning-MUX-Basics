@@ -1,1 +1,15 @@
 After watching a few videos, I decided to try my hand at creating a simple 4-1 MUX circuit in MultiSim to get some hands-on experience with them.
+
+However, before even opening MultiSim, I thought it would be wise to create a truth table beforehand.
+
+For my select lines, I decided to use the letters A and B to represent them.
+For my inputs, I decided to use I0, I1, I2, and I3 to represent them.
+For my output, I decided to use O to represent it.
+
+So, the truth table would look something like this:
+------------
+A | B |  Y |
+0 | 0 | I0 |
+1 | 0 | I1 |
+0 | 1 | I2 |
+1 | 1 | I3 |
