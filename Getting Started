@@ -10,6 +10,6 @@ So, the truth table would look something like this:
 ------------
 A | B |  Y |
 0 | 0 | I0 |
-1 | 0 | I1 |
-0 | 1 | I2 |
+0 | 1 | I1 |
+1 | 0 | I2 |
 1 | 1 | I3 |
